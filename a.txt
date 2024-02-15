@@ -1,1 +1,1 @@
-This is some text.
+This is the starting text.
